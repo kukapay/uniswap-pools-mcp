@@ -2,6 +2,10 @@
 
 An MCP server for querying Uniswap pools/pairs by token address, delivering clean, structured results for easy integration and analysis.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/uniswap-pools-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/uniswap-pools-mcp/badge" alt="uniswap-pools-mcp MCP server" />
+</a>
+
 ![GitHub License](https://img.shields.io/github/license/kukapay/uniswap-pools-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -121,4 +125,3 @@ The server provides several tools to query Uniswap pool/pair data.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
